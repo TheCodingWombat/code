@@ -129,7 +129,7 @@ public class JavaTutorial1 {
         // Float.parseFloat(), Double.parseDouble() and Boolean.parseBoolean()
 
         // The old variables myPi, trueOrFalse and favoriteNumber were only temporarily converted
-        //  and that's why you had to save them in new variables c, b and a respecitvely
+        //  and that's why you had to save them in new variables c, b and a respectively
         // Here they are still a double, boolean and String respectively
 
         a = a * 2; // Multiplies a by 2 and assigns the value back to a
