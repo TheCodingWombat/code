@@ -49,32 +49,32 @@ public class JavaTutorial1 {
         System.out.println(byeMessage);
 
         /*
-        * You can add characters to a String that would otherwise interfere with your code
-        * First type a backslash ("\") followed by what you want to be escaped
-        * \b - Backspace
-        * \f - Formfeed
-        * \n - Newline
-        * \r - Carriage return
-        * \t - Tab
-        * \" - Quotation marks
-        * \' - Apostrophes
-        * \\ - Backslash
-        */
+         * You can add characters to a String that would otherwise interfere with your code
+         * First type a backslash ("\") followed by what you want to be escaped
+         * \b - Backspace
+         * \f - Formfeed
+         * \n - Newline
+         * \r - Carriage return
+         * \t - Tab
+         * \" - Quotation marks
+         * \' - Apostrophes
+         * \\ - Backslash
+         */
 
         // This String will print its escaped quotes as well as a line break
         String quotedString = "\"This will print \nthe quotation marks as well\"";
 
         /*
-        * Java's 8 primitive data types
-        * byte    - A number between -128 and 127
-        * short   - A number between -32768 and 32767
-        * int     - A number between -2^31 and 2^31-1   (up to a few billion, a 1 with 9 zeroes)
-        * long    - A number between -2^63 and 2^63-1   (up to a few quintillion, a 1 with 18 zeroes)
-        * float   - A number with a floating point                (precise to roughly 6 decimal places)
-        * double  - A more precise number with a floating point   (precise to roughly 15 decimal places)
-        * boolean - Either true or false
-        * char    - A character like 'a' or '@' represented as a number
-        */
+         * Java's 8 primitive data types
+         * byte    - A number between -128 and 127
+         * short   - A number between -32768 and 32767
+         * int     - A number between -2^31 and 2^31-1   (up to a few billion, a 1 with 9 zeroes)
+         * long    - A number between -2^63 and 2^63-1   (up to a few quintillion, a 1 with 18 zeroes)
+         * float   - A number with a floating point                (precise to roughly 6 decimal places)
+         * double  - A more precise number with a floating point   (precise to roughly 15 decimal places)
+         * boolean - Either true or false
+         * char    - A character like 'a' or '@' represented as a number
+         */
 
         byte myByte = 120;
         short myShort = 16000;
