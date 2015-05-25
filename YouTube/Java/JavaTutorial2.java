@@ -39,9 +39,9 @@ public class JavaTutorial2 {
 
         if (intTwo == 5) { // This executes if the value of intTwo is equal to 5
             System.out.println("intTwo is equal to 5"); // A print statement that will display text to the user
-        } else if (intTwo >= 10) { // This executes if intTwo is greater than or equal to 10
+        } else if (intTwo >= 10) { // This executes if intTwo is greater than or equal to 10 and the statement above failed
             System.out.println("IntTwo is greater than or equal to 10");
-        } else if (intTwo != 8) { // This executes if the value of intTwo is not equal to 8
+        } else if (intTwo != 8) { // This executes if the value of intTwo is not equal to 8 and all statements above failed
             System.out.println("intTwo is not 8");
         } else { // The else block executes when none of the above were true
             System.out.println("Nothing was true");
