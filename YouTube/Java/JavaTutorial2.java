@@ -1,6 +1,6 @@
 // All Java code must be inside a class
 // public means that this class can be accessed by every other class
-// classes can contain methods and variables, and can often be a template for objects
+// Classes can contain methods and variables, and can often be a template for objects
 // The name after class must be the same as the name of the document
 // Everything between the curly brackets ("{" and "}") is part of this class
 public class JavaTutorial2 {
