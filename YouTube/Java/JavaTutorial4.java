@@ -87,6 +87,6 @@ public class JavaTutorial4 {
             name = userInput.next();
         }
 
-    }
+    } // End of main method
 
-}
+} // End of JavaTutorial4 class
