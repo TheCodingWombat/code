@@ -83,7 +83,7 @@ public class JavaTutorial4 {
         // hasNext() does the same thing as hasNextLine()
         if (userInput.hasNext()) {
             // next() retrieves all characters up to the first space character that were entered; here it assings it to name
-            // If I were to enter "Richard Koetschruyter", only "Richard" would be assigned to name
+            // If I were to enter "John Smith", only "John" would be assigned to name
             name = userInput.next();
         }
 
